@@ -7,7 +7,7 @@ import sql
 import СWordik
 import Keyboards as K
 
-bot = telebot.TeleBot('6678321800:AAHV8iIZSrAFzmMARV1Uv_rCazbYnB2_4YI')
+bot = telebot.TeleBot(' #PASTE TOKEN HERE')
 flagConnect = False
 
 
